@@ -1,1 +1,1 @@
-# SEO-Learning-Notes
+# Insights Hub

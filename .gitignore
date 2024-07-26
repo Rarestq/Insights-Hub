@@ -37,6 +37,5 @@ yarn-error.log*
 *.js.map
 
 # gefeisvip
-/gefeisvip
-/keyword
-/keyword/*
+/seo/gefeisvip
+/seo/keyword
